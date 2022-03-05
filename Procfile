@@ -1,0 +1,1 @@
+web: gunicorn Django-Real-Estate-master.wsgi --log-file -
